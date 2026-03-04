@@ -43,9 +43,9 @@ const BestFood = () => {
     <section className="py-20 px-4 max-w-7xl mx-auto bg-white">
       {/* Header */}
       <div className="text-center mb-16">
-        <h2 className="text-3xl font-bold text-gray-800 mb-4">
-          We Grow Best Food
-        </h2>
+        <h1 className="md:text-5xl text-3xl font-bold text-emerald-600 mb-4 font-stretch-ultra-condensed">
+          We Grow <span className="text-orange-400">Best Food</span>
+        </h1>
         <p className="text-gray-500 max-w-2xl mx-auto">
           Lorem ipsum dolor sit amet, consectetur elit sed do eiusmod tempor
           incididunt ut labore et dolore magna aliqua.
